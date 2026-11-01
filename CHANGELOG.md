@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.13.0](https://github.com/kgoedecke/doop/compare/v0.12.0...v0.13.0) (2026-11-01)
+
+
+### Features
+
+* **desktop:** update the app automatically from a signed feed ([#285](https://github.com/kgoedecke/doop/issues/285)) ([3298742](https://github.com/kgoedecke/doop/commit/329874207677d7cf4790b3231aab46fc7f9462e7))
+* **i18n:** add Brazilian Portuguese alongside English ([#291](https://github.com/kgoedecke/doop/issues/291)) ([9e4248b](https://github.com/kgoedecke/doop/commit/9e4248b70fc49e13eb555581226dc84dbf421e50))
+
+
+### Bug Fixes
+
+* **canvas:** fit the selection into the area the panels leave open ([#289](https://github.com/kgoedecke/doop/issues/289)) ([ce5a9ab](https://github.com/kgoedecke/doop/commit/ce5a9ab1529a43b8b5627a33dddd4efdd061fba6))
+* detect browsers on Windows ([#284](https://github.com/kgoedecke/doop/issues/284)) ([9136997](https://github.com/kgoedecke/doop/commit/91369978260bb9fae46ffa6b3f02410dca4406eb))
+
 ## [0.12.0](https://github.com/kgoedecke/doop/compare/v0.11.0...v0.12.0) (2026-10-31)
 
 
